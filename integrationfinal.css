@@ -272,3 +272,11 @@
  .nav-link:hover>.symbole2 {
      color: #FC4F00 !important;
  }
+
+.card-perso {
+  margin-top: -5px;
+  background-color: black;
+  position: absolute;
+  font-size: 1.5em;
+  color: white;
+}
